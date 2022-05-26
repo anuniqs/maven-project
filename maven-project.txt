@@ -1,0 +1,11 @@
+Download , https://maven.apache.org/download.cgi
+
+Install , https://maven.apache.org/install.html
+
+Run - https://maven.apache.org/run.html
+
+
+Project - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+
+https://www.youtube.com/watch?v=1pK6i_gwIKs
