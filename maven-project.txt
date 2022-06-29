@@ -1,16 +1,41 @@
 - Java should be there
 
   
-
 Download , https://maven.apache.org/download.cgi
 
 Install , https://maven.apache.org/install.html
 
 Run - https://maven.apache.org/run.html
 
+
+
 Project - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+
+or,
+
+PS D:\GITRepos> mvn archetype:generate
+
+Choose a number or apply filter (format: [groupId:]artifactId, case sensitive contains): 1909: 1909
+
+Choose a number: 8: 8
+
+Define value for property 'groupId': com.cliinteractivemavenproject
+
+Define value for property 'artifactId': cli-interactive-maven-project
+
+Define value for property 'version' 1.0-SNAPSHOT: : 1.0-SNAPSHOT
+
+Define value for property 'package' com.cliinteractivemavenproject: : com.cliinteractivemavenproject
+
+PS D:\GITRepos> ls
+
+
+
 
 
 
 Maven Repository - 
+
 
